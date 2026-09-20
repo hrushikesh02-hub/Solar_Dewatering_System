@@ -282,8 +282,8 @@ The dashboard is fully responsive and optimized for:
 
 # 👨‍💻 Developed By
 
+**Hrushikesh Thombare**
 **Om Dhanapune**  
-**Hrushikesh Thombare**  
 Computer Engineering Student
 
 ---
